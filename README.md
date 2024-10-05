@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @rikka421
+- WELCOME to my blog: https://rikka421.github.io/
 - 👀 I’m interested in
     - AI, such as ML and RL
     - Algorithms, such as Codeforces and ICPC
